@@ -1,0 +1,9 @@
+# packages you may need
+pandas
+numpy
+kagglehub
+python-dotenv
+joblib
+tqdm
+geopy
+streamlit
