@@ -51,12 +51,10 @@ Or if you prefer Conda:
 
 ## Dataset
 
-The dataset used in this project includes data from 5 million trees in the US, covering various features such as species, age, location, and environmental conditions.
+The dataset used in this project includes data from 5 million trees in the US, covering various features such as species, age, location, and environmental conditions. 
+ - Get the dataset on [Kaggle](https://www.kaggle.com/datasets/mexwell/5m-trees-dataset)
 
 #### Data Column Descriptions
-
-Get the dataset on [Kaggle](https://www.kaggle.com/datasets/mexwell/5m-trees-dataset)
-
 
 The dataset contains several columns that provide detailed information about each tree. Below is a description of each column:
 
