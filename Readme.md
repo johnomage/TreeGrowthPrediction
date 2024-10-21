@@ -1,5 +1,5 @@
 
-# Predicting Tree Growth Using 5 Million 🌴 Across the US
+# Predicting Tree Growth Using 5 Million 🌴 Across the US - WORK IN PROGRESS
 
 
 ## Overview
@@ -98,22 +98,22 @@ For reference on data prepreprocessing, you can follow the original source's [RE
 
 This project utilizes the following packages:
 
-- **pandas**: For data manipulation and analysis.
-- **numpy**: For numerical computations.
-- **kagglehub**: For accessing datasets from Kaggle.
-- **python-dotenv**: For managing environment variables.
-- **joblib**: For efficient serialization of large data.
-- **tqdm**: For displaying progress bars in loops.
-- **geopy**: For geolocation services.
-- **streamlit**: For building interactive web applications.
+- **pandas**
+- **numpy**
+- **kagglehub**
+- **python-dotenv**
+- **joblib**
+- **tqdm**
+- **geopy**
+- **streamlit**
 
 ## Usage
 
 To run the application, use the following command:
 ```bash
-streamlit run app.py
+streamlit run TreeGrowthApp.py
 ```
-Replace `app.py` with the name of your main application file.
+Replace `TreeGrowthApp.py` with the name of your main application file.
 
 ## Contributing
 

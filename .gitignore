@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.DS_Store
 
 # C extensions
 *.so
@@ -155,8 +154,10 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# folders
+# other folders and files
 cachedir/
 ./cachedir/
 cachedirLoc/
 mexwell/
+.DS_Store
+data_with_missings.parquet
