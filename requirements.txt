@@ -1,11 +1,13 @@
 # packages you may need
-pandas
-numpy
-kagglehub
-python-dotenv
-joblib
-tqdm
-geopy
-streamlit
-matplotlib
-plotly
+pandas==2.2.3
+numpy==1.26.4
+kagglehub==0.3.3
+python-dotenv==1.0.1  # python_dotenv for dotenv
+joblib==1.4.2
+tqdm==4.66.5
+geopy==2.4.1
+streamlit==1.39.0
+matplotlib==3.9.2
+plotly==5.24.1
+scikit-learn==1.5.2  # for sklearn
+tensorflow==2.16.2
