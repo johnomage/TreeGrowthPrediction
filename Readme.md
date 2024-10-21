@@ -106,6 +106,8 @@ This project utilizes the following packages:
 - **tqdm**
 - **geopy**
 - **streamlit**
+- **matplotlib**
+- **plotly**
 
 ## Usage
 
