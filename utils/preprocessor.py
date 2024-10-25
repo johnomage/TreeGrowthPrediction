@@ -8,7 +8,7 @@ import city_mapper
 from typing import List
 
 
-class DataFrameLoader:
+class Preprocessor:
     """Load and process CSV files from a specified directory.
 
     This class handles downloading datasets, retrieving valid CSV files,
@@ -212,11 +212,13 @@ class DataFrameLoader:
         return data_frame[selected_features]
 
 
+    def clean_data():
+        pass
 
-class Cleaner:
-    pass
+
+
 # Use case:
-# loader = DataFrameLoader()
+# loader = Preprocessor()
 # dataframes = loader.load_dataframes()
 
 # print(dataframes.sample(20))
